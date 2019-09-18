@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GPA CALCULATOR</string>
+    <string name="msg_app">Mobile Computing</string>
+    <string name="grade1">Enter Grade One</string>
+    <string name="grade2">Enter Grade Two</string>
+    <string name="grade3">Enter Grade Three</string>
+    <string name="grade4">Enter Grade Four</string>
+    <string name="grade5">Enter Grade Five</string>
+    <string name="calc_gpa">Calculate GPA</string>
+    <string name="result">this is the result</string>
+
+
+</resources>
